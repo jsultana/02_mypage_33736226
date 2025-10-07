@@ -16,7 +16,7 @@ const html = `<!doctype html>
 </head>
 
 <body>
-  <h1>Hi, I’m Jannatttt  </h1>
+  <h1>Hi, I’m Jannat  </h1>
   <h2>3rd-year BSc Computer Science @ Goldsmiths</h2>
   <p>I’m interested in data visualisation, AI ethics, and human-centred tech. This page is served by a tiny Node.js server I built in Lab 1.</p>
 </body>
