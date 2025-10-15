@@ -1,5 +1,5 @@
 const http = require("http");
-const port = 8000; // change to 8080 if 8000 is busy
+const port = 8000;
 
 const html = `<!doctype html>
 <html lang="en">
@@ -17,7 +17,7 @@ const html = `<!doctype html>
 
 <body>
   <h1>Hi, I’m Jannat  </h1>
-  <h2>3rd-year BSc Computer Science @ Goldsmiths</h2>
+  <h2>3rd-year BSc Computer Science with User Experience @ Goldsmiths</h2>
   <p>I’m interested in data visualisation, AI ethics, and human-centred tech. This page is served by a tiny Node.js server I built in Lab 1.</p>
 </body>
 </html>`;
